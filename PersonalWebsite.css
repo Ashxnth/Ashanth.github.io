@@ -1,0 +1,55 @@
+html {
+    font-family: 'Roboto', sans-serif;
+    margin:0;
+    padding:0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+body {
+    text-align: center;
+}
+
+h1 {
+    vertical-align: center;
+    font-size: 60px;
+    margin-top: 180px;
+    padding: auto;
+}
+
+h3 {
+    margin-top: 20px;
+    font-size: 40px;
+}
+
+.ryerson {
+    color: #0062ff;
+}
+
+img {
+    margin: 20px;
+    height: 30px;
+    width: 30px;
+}
+
+h4{
+    font-size: 200px;
+}
+
+#view-resume {
+    font-size: 25px;
+    color: black;
+    text-decoration: none;
+}
+
+#view-resume:hover {
+    text-decoration: underline;
+}
